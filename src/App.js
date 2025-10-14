@@ -9,7 +9,7 @@ import SearchIcon from './search.svg';
 const API_URL = "http://www.omdbapi.com/?apikey=75978118";
 
 const movie = {
-    "Title": "The Shawshank Redemption: Behind the Scenes",
+    "Title": "The Shawshank Redemption",
     "Year": "2004",
     "imdbID": "tt5443386",
     "Type": "movie",
