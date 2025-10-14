@@ -1,6 +1,6 @@
 //  75978118
 import React, { useState, useEffect } from "react";
-import MovieCard from "../../MovieHive/MovieCard";
+import MovieCard from "./MovieCard";
 import './App.css';
 import SearchIcon from './search.svg';
 
