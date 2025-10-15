@@ -6,7 +6,7 @@ import SearchIcon from './search.svg';
 
 
 
-const API_URL = "http://www.omdbapi.com/?apikey=75978118";
+const API_URL = "https://www.omdbapi.com/?apikey=75978118";
 
 const movie = {
     "Title": "The Shawshank Redemption",
