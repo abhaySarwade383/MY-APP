@@ -27,7 +27,7 @@ const [searchTerm, setsearchTerm] = useState('');
     };
 
     useEffect(() => {
-        searchMovies("superman");
+        searchMovies("");
     }, []);
 
     return (
